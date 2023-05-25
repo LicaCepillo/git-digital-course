@@ -6,3 +6,4 @@
 ## Git log e restore
 
 * uso do comando git restore
+* comando git push
